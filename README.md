@@ -49,8 +49,7 @@ Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn](https://www.linkedin.com/in/jms-luck/)
 - [Portfolio](https://your-portfolio.com)
 
 ---
