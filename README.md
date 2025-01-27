@@ -1,6 +1,5 @@
 # 100 Days of Cloud Challenge
 
-![100 Days of Cloud](https://your-image-link-here.com)
 
 Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is designed to deepen my understanding of cloud technologies and improve my hands-on skills by working on real-world projects every day for 100 days.
 
