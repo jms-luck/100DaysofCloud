@@ -1,7 +1,7 @@
 # 100 Days of Cloud Challenge
 
 
-Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is designed to deepen my understanding of cloud technologies and improve my hands-on skills by working on real-world projects every day for 100 days.
+Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is designed to deepen my understanding of Azure cloud technologies and improve my hands-on skills by working on real-world projects every day for 100 days.
 
 ---
 
@@ -9,25 +9,17 @@ Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is
 
 | Day | Topic/Activity | Tools/Technologies | Links/Notes |
 |-----|----------------|---------------------|-------------|
-| 1   | Created a Virtual Network (VNet) and custom subnet | Azure | [Notes](./day1.md) |
+| 1   | Exploring Resource Groups in Azure | Azure | [Notes](./day1.md) |
 | 2   | Configured Network Security Groups (NSGs) | Azure | [Notes](./day2.md) |
 | ... | ...            | ...                 | ...         |
 
 ---
 
-## 🛠 Tools and Technologies
-- **Cloud Providers**: Azure, AWS, Google Cloud
-- **Languages**: Python, PowerShell, Bash
-- **Tools**: Terraform, Azure CLI, AWS CLI, Kubernetes
-- **Certifications Goal**: AZ-104, AWS Certified Solutions Architect
-
----
-
 ## 🌟 Goals
-1. Gain hands-on experience with cloud computing.
-2. Explore and implement different cloud architectures.
-3. Learn to use automation tools like Terraform and Azure DevOps.
-4. Prepare for cloud certifications.
+1. Gain hands-on experience with Azure cloud computing.
+2. Explore and implement different Azure services and architectures.
+3. Learn to use Azure tools and technologies effectively.
+4. Prepare for Azure certifications like AZ-104.
 
 ---
 
@@ -58,4 +50,4 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ---
 
-Let's get cloud-ready! ☁️
+Let's get cloud-ready with Azure! ☁️
