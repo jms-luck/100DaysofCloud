@@ -9,7 +9,7 @@ Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is
 
 | Day | Topic/Activity | Tools/Technologies | Links/Notes |
 |-----|----------------|---------------------|-------------|
-| 1   | Exploring Resource Groups in Azure | Azure | [Notes](./day1.md) |
+| 1   | Exploring Resource Groups in Azure | Azure | [Notes](./Day - 1.md) |
 | 2   | Configured Network Security Groups (NSGs) | Azure | [Notes](./day2.md) |
 | ... | ...            | ...                 | ...         |
 
