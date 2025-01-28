@@ -1,17 +1,16 @@
 # 100 Days of Cloud Challenge
 
-
 Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is designed to deepen my understanding of Azure cloud technologies and improve my hands-on skills by working on real-world projects every day for 100 days.
 
 ---
 
 ## 📅 Challenge Overview
 
-| Day | Topic/Activity | Tools/Technologies | Links/Notes |
-|-----|----------------|---------------------|-------------|
-| 1   | Exploring Resource Groups in Azure | Azure | [Notes](./Day-1.md) |
-| 2   | Configured Network Security Groups (NSGs) | Azure | [Notes](./day2.md) |
-| ... | ...            | ...                 | ...         |
+| Day | Topic/Activity                           | Tools/Technologies | Links/Notes         |
+|-----|------------------------------------------|---------------------|---------------------|
+| 1   | Exploring Resource Groups in Azure       | Azure               | [Notes](./Day-1.md) |
+| 2   | Virtual Machine Deployment in Azure      | Azure               | [Notes](./Day-2.md) |
+| ... | ...                                      | ...                 | ...                 |
 
 ---
 
@@ -28,7 +27,7 @@ Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is
 - Each day's log will include:
   - Activities performed
   - Challenges faced
-  - Solutions and learnings
+  - Solutions and learnings.
 
 ---
 
