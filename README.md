@@ -8,10 +8,10 @@ Welcome to my **100 Days of Cloud Challenge** repository! 🚀 This challenge is
 
 | Day | Topic/Activity                           | Tools/Technologies     | Links/Notes         |
 |-----|------------------------------------------|-----------------------|---------------------|
-| 1   | Exploring Resource Groups in Azure       | Azure                 | [Notes](./Day-1.md) |
-| 2   | Virtual Machine Deployment in Azure      | Azure                 | [Notes](./Day-2.md) |
-| 3   | Introduction to Azure Database Services  | Azure SQL Database    | [Notes](./Day-3.md) |
-| 4   | Azure OCR in AI Services                 | Azure Computer Vision | [Notes](./Day-4.md) |
+| 1   | Exploring Resource Groups in Azure       | Azure                 | [Notes](./Resource_group/Day-1.md) |
+| 2   | Virtual Machine Deployment in Azure      | Azure                 | [Notes](./virtual_Machine/Day-2.md) |
+| 3   | Introduction to Azure Database Services  | Azure SQL Database    | [Notes](./Azure_Database/Day-3.md) |
+| 4   | Azure OCR in AI Services                 | Azure Computer Vision | [Notes](./Computer_visionDay-4.md) |
 
 ---
 
